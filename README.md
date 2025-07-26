@@ -1,15 +1,14 @@
 Hi, I'm Asmita 
 
-> About Me
-Data Science & Economics Undergraduate
-Passionate about solving real-world problems using data
-Currently diving into Machine Learning, Statistics, and SQL for end-to-end data science workflows
+> About Me <br/>
+Data Science & Economics Undergraduate<br/>
+Passionate about solving real-world problems using data<br/>
+Currently diving into Machine Learning, Statistics, and SQL for end-to-end data science workflows<br/>
 
-> What I'm Working On
-Building Tableau dashboards for visual storytelling
-Exploring ML models and data pipelines in Python
-Creating SQL-driven insights for structured datasets
-Always open to data science projects
+> What I'm Working On<br/>
+Applying data science concepts through hands-on internship experience<br/>
+Exploring ML workflows and automating pipelines with Python and SQL<br/>
+Actively seeking impactful data science projects and collaborations<br/>
 
 
 ## 🌐 Socials:
