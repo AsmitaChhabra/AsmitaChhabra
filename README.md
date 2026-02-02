@@ -12,7 +12,9 @@ Actively seeking impactful data science projects and collaborations<br/>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmitchhabra/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@asmitachhabra04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asmitachhabra04@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=F79F1B)](https://leetcode.com/u/asmitachhabra/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmitchhabra/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@asmitachhabra04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asmitachhabra04@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=F79F1B)](https://leetcode.com/u/asmitachhabra/) [![HackerRank]](https://img.shields.io/badge/HackerRank-000000?logo=hackerrank&logoColor=green)](https://www.hackerrank.com/profile/asmitachhabra04)
+
+
 
 
 # 💻 Tech Stack:
